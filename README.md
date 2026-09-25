@@ -40,42 +40,24 @@ git clone https://github.com/nicolasletti/projeto-saude-maix.git
 ## **Equipe**
 **`Agradecemos às seguintes pessoas que contribuíram para este projeto:`**
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Willsonseg" title="Wilson Segundo">
-        <img src="https://images.weserv.nl/?url=github.com%2FWillsonseg.png%3Fsize%3D200&mask=circle" width="100" height="100" alt="Foto do Wilson Segundo no GitHub"/><br>
-        <sub>
-          <b>Wilson Segundo</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nicolasletti" title="Nicolas Letti">
-        <img src="https://images.weserv.nl/?url=github.com%2Fnicolasletti.png%3Fsize%3D200&mask=circle" width="100" height="100" alt="Foto do Nicolas Letti"/><br>
-        <sub>
-          <b>Nicolas Letti</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/siilvadudu07" title="José Eduardo">
-        <img src="https://images.weserv.nl/?url=github.com%2Fsiilvadudu07.png%3Fsize%3D200&mask=circle" width="100" height="100" alt="Foto do José Eduardo"/><br>
-        <sub>
-          <b>José Eduardo</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Murillo1993" title="Murilo Antonio">
-        <img src="https://images.weserv.nl/?url=github.com%2FMurillo1993.png%3Fsize%3D200&mask=circle" width="100px" height="100px" alt="Foto do Murilo Antonio"/><br>
-        <sub>
-          <b>Murilo Antonio</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/Willsonseg" title="Wilson Segundo" style="display: inline-block; vertical-align: top; margin: 0 8px;">
+    <img src="https://images.weserv.nl/?url=github.com%2FWillsonseg.png%3Fsize%3D200&mask=circle" width="100" height="100" alt="Foto do Wilson Segundo no GitHub"/><br>
+    <sub><b>Wilson Segundo</b></sub>
+  </a>
+  <a href="https://github.com/nicolasletti" title="Nicolas Letti" style="display: inline-block; vertical-align: top; margin: 0 8px;">
+    <img src="https://images.weserv.nl/?url=github.com%2Fnicolasletti.png%3Fsize%3D200&mask=circle" width="100" height="100" alt="Foto do Nicolas Letti"/><br>
+    <sub><b>Nicolas Letti</b></sub>
+  </a>
+  <a href="https://github.com/siilvadudu07" title="José Eduardo" style="display: inline-block; vertical-align: top; margin: 0 8px;">
+    <img src="https://images.weserv.nl/?url=github.com%2Fsiilvadudu07.png%3Fsize%3D200&mask=circle" width="100" height="100" alt="Foto do José Eduardo"/><br>
+    <sub><b>José Eduardo</b></sub>
+  </a>
+  <a href="https://github.com/Murillo1993" title="Murilo Antonio" style="display: inline-block; vertical-align: top; margin: 0 8px;">
+    <img src="https://images.weserv.nl/?url=github.com%2FMurillo1993.png%3Fsize%3D200&mask=circle" width="100" height="100" alt="Foto do Murilo Antonio"/><br>
+    <sub><b>Murilo Antonio</b></sub>
+  </a>
+</div>
  
 **Projeto de Extensão — PUCPR × IBK**
  
