@@ -19,8 +19,7 @@
   <img src="src/frontend/pages/img/logo-borboleta.png" alt="Projeto Saúde MaiX" width="200">
 </p>
 
->Sistema web de apoio à triagem clínica para a **Síndrome do X Frágil (SXF)**, desenvolvido como Projeto de Extensão em parceria com a **PUCPR** e o **IBK**.
-
+> Sistema web de apoio à triagem clínica para a **Síndrome do X Frágil (SXF)**, desenvolvido como Projeto de Extensão em parceria com a **PUCPR** e o **IBK**.
 
 ## **Pré-requisitos para instalação**
 
@@ -33,43 +32,44 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 | Git | 2.x ou superior | https://git-scm.com |
 
 ## **Instalando projeto-saude-maix**
-```
+
+```bash
 git clone https://github.com/nicolasletti/projeto-saude-maix.git
 ```
 
 ## **Equipe**
-**`Agradecemos às seguintes pessoas que contribuíram para este projeto:`**
 
-<div align="center">
-  <span>
-    <a href="https://github.com/Willsonseg" title="Wilson Segundo">
-    <img src="https://images.weserv.nl/?url=github.com%2FWillsonseg.png%3Fsize%3D200&mask=circle" width="100" height="100" alt="Foto do Wilson Segundo no GitHub"/><br>
-    <sub><b>Wilson Segundo</b></sub>
-    </a>
-  </span>
-  &nbsp;&nbsp;
-  <span>
-    <a href="https://github.com/nicolasletti" title="Nicolas Letti">
-    <img src="https://images.weserv.nl/?url=github.com%2Fnicolasletti.png%3Fsize%3D200&mask=circle" width="100" height="100" alt="Foto do Nicolas Letti"/><br>
-    <sub><b>Nicolas Letti</b></sub>
-    </a>
-  </span>
-  &nbsp;&nbsp;
-  <span>
-    <a href="https://github.com/siilvadudu07" title="José Eduardo">
-    <img src="https://images.weserv.nl/?url=github.com%2Fsiilvadudu07.png%3Fsize%3D200&mask=circle" width="100" height="100" alt="Foto do José Eduardo"/><br>
-    <sub><b>José Eduardo</b></sub>
-    </a>
-  </span>
-  &nbsp;&nbsp;
-  <span>
-    <a href="https://github.com/Murillo1993" title="Murilo Antonio">
-    <img src="https://images.weserv.nl/?url=github.com%2FMurillo1993.png%3Fsize%3D200&mask=circle" width="100" height="100" alt="Foto do Murilo Antonio"/><br>
-    <sub><b>Murilo Antonio</b></sub>
-    </a>
-  </span>
-</div>
- 
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Willsonseg">
+        <img src="https://images.weserv.nl/?url=github.com%2FWillsonseg.png%3Fsize%3D200&mask=circle" width="100" height="100" alt="Foto de Wilson Segundo no GitHub"><br>
+        <sub><b>Wilson Segundo</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nicolasletti">
+        <img src="https://images.weserv.nl/?url=github.com%2Fnicolasletti.png%3Fsize%3D200&mask=circle" width="100" height="100" alt="Foto de Nicolas Letti no GitHub"><br>
+        <sub><b>Nicolas Letti</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/siilvadudu07">
+        <img src="https://images.weserv.nl/?url=github.com%2Fsiilvadudu07.png%3Fsize%3D200&mask=circle" width="100" height="100" alt="Foto de José Eduardo no GitHub"><br>
+        <sub><b>José Eduardo</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Murillo1993">
+        <img src="https://images.weserv.nl/?url=github.com%2FMurillo1993.png%3Fsize%3D200&mask=circle" width="100" height="100" alt="Foto de Murilo Antonio no GitHub"><br>
+        <sub><b>Murilo Antonio</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 **Projeto de Extensão — PUCPR × IBK**
- 
+
 ---
