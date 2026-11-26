@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="src/frontend/pages/img/logo-borboleta.png" alt="Projeto Saúde MaiX" width="200">
+</p>
+
 <h1 align="center">Projeto Saúde MaiX</h1>
+
+> Sistema web de apoio à triagem clínica para a Síndrome do X Frágil (SXF), desenvolvido como Projeto de Extensão em parceria com a **PUCPR** e o **IBK**.
 
 <p align="center">
   <a href="https://github.com/nicolasletti/projeto-saude-maix">
@@ -14,12 +20,6 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
-
-<p align="center">
-  <img src="src/frontend/pages/img/logo-borboleta.png" alt="Projeto Saúde MaiX" width="200">
-</p>
-
-> Sistema web de apoio à triagem clínica para a **Síndrome do X Frágil (SXF)**, desenvolvido como Projeto de Extensão em parceria com a **PUCPR** e o **IBK**.
 
 ## **Pré-requisitos para instalação**
 
